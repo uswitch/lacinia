@@ -1,4 +1,4 @@
-(defproject uswitch/lacinia "0.18.0"
+(defproject velrok/lacinia "0.18.0-SNAPSHOT"
   :description "A GraphQL server implementation in Clojure"
   :license {:name "Apache, Version 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0"}
